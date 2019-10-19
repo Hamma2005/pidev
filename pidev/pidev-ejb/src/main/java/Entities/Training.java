@@ -14,5 +14,5 @@ public class Training  implements Serializable {
  
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
-	private int id;
+	private int id; //
 }
