@@ -14,5 +14,5 @@ public class Bill  implements Serializable {
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	private int id;
-	//
+	//test2
 }
